@@ -1,0 +1,62 @@
+[
+  {
+    "template": "wow this is so pretty… so how tf do i make friends in {city}",
+    "pattern": "Lonely ask over scenic b-roll",
+    "proof_views": "128.6K, 39.2K (both San Diego)"
+  },
+  {
+    "template": "{city} girls, where are we making friends that doesn't revolve around a bar??",
+    "pattern": "City callout question",
+    "proof_views": "40.0K, 11.2K (San Diego)"
+  },
+  {
+    "template": "moved to {city} {6} months ago but still feel lonely. pls give me your most gatekept ways you've made friends in the city",
+    "pattern": "Lonely ask (crowdsource)",
+    "proof_views": "74.0K (OC), 38.6K (London)"
+  },
+  {
+    "template": "just moved to {city} and I need your most gatekept ways to actually meet people. not just {obvious spot} or {obvious spot}. give me the wildest, most unhinged, actually-works ways you've made real friends here",
+    "pattern": "Lonely ask (crowdsource)",
+    "proof_views": "45.8K, 15.7K (OC), 7.7K (LA)"
+  },
+  {
+    "template": "5 ways to actually make new friends in your 20s: 1) Become a regular somewhere…",
+    "pattern": "Listicle / tips",
+    "proof_views": "88.6K, 36.1K (NYC, IG)"
+  },
+  {
+    "template": "met on {app} last year and now we {fly round the world / see our favorite artists together}",
+    "pattern": "Social proof / outcome story",
+    "proof_views": "83.9K (London), 18.0K (San Diego)"
+  },
+  {
+    "template": "5 apps that make living in {city} so much easier (slot your app in the list)",
+    "pattern": "App roundup",
+    "proof_views": "67.5K, 61.1K, 50.7K (London, IG)"
+  },
+  {
+    "template": "Just watched my friend raw dog getting a boyfriend. no hinge. no {app}. no hot coworkers. just vibes and zero fear of rejection. am I cooked",
+    "pattern": "Relatable confession",
+    "proof_views": "66.7K (San Diego)"
+  },
+  {
+    "template": "giving myself until {holiday} to make one real friend in {city}. tell me where to go and I'll try every single one (within reason)",
+    "pattern": "Deadline challenge",
+    "proof_views": "24.5K (OC), 3.1K (SF)"
+  },
+  {
+    "template": "You moved to {city} for a reason. Don't hide in your apartment. Get up. Get dressed. Meet new people… Get on {app}. Get out there.",
+    "pattern": "Manifesto (most reused: 25 posts)",
+    "proof_views": "22.0K (London), 7.2K (LA)"
+  },
+  {
+    "template": "my attempts at making friends in {city} so far: run club (nobody texted after). pottery class (all couples). bumble bff (ghosted twice). what am i missing",
+    "pattern": "Failed attempts list",
+    "proof_views": "17.6K (SF), 5.2K (Toronto)"
+  },
+  {
+    "template": "BEST {HALLOWEEN} EVENTS IN {city} (one of them on {app})",
+    "pattern": "Seasonal event roundup",
+    "proof_views": "15.6K (OC)"
+  }
+]

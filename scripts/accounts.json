@@ -1,0 +1,21 @@
+{
+  "tiktok": [
+    {"handle": "becca..irl", "city": "London"},
+    {"handle": "jenna.in.toronto", "city": "Toronto"},
+    {"handle": "graceinchicago", "city": "Chicago"},
+    {"handle": "not.clarise", "city": "NYC"},
+    {"handle": "dylanw.irl", "city": "London"},
+    {"handle": "fionaaafarrell", "city": "LA"},
+    {"handle": "kylie.in.socal", "city": "Orange County"},
+    {"handle": "gomirandago", "city": "SF"},
+    {"handle": "sophia.in.sandiego", "city": "San Diego"},
+    {"handle": "casey.mariec", "city": "NYC"},
+    {"handle": "not.lauren.nyc", "city": "NYC"},
+    {"handle": "sophia_m2122", "city": "San Diego"},
+    {"handle": "chiadventuress", "city": "Chicago"}
+  ],
+  "instagram": [
+    {"handle": "dylanw.irl", "city": "London"},
+    {"handle": "unverifiedtram", "city": "NYC"}
+  ]
+}

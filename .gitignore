@@ -1,0 +1,29 @@
+# Pipeline working data (raw API responses, downloaded media, frames, OCR output)
+work/
+frames/
+vids/
+videos/
+raw/
+*.mp4
+*.mov
+*.webm
+ocr.json
+hooks_draft.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node (only used for the optional headless test)
+node_modules/
+package-lock.json
+
+# Secrets / local env
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
